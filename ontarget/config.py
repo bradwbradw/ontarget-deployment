@@ -1,0 +1,2 @@
+SECRET_KEY='AbCd1234' 
+UPLOAD_FOLDER='/tmp'

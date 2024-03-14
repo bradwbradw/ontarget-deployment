@@ -1,0 +1,13 @@
+[
+    {
+        "chrom": "19",
+        "start": 46085684,
+        "end": 46198325,
+        "type": "Gene interval",
+        "id": "Pitx3 +/- 50 kb",
+        "score": 0,
+        "strand": 0,
+        "size": 112641,
+        "qualifiers": null
+    }
+]
